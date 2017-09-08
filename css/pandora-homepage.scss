@@ -540,9 +540,6 @@
                   font-size: 20px;
                   line-height: 24px;
                 }
-                .brackets-cta {
-
-                }
               }
             }
           }
@@ -765,7 +762,8 @@
         background-repeat: no-repeat;
         .pandora-title {
           .pandora-body-text-container {
-            bottom: -17%;
+            bottom: 5%;
+            width: 92%;
           }
         }
       }
@@ -823,7 +821,7 @@
         }
         .pandora-body-text-container {
           bottom: -25%;
-          a.brackets-cta {
+          a.brackets-cta.pandora-desktop {
             padding-bottom: 2%;
             padding-top: 2%;
             display: block;
